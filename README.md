@@ -1,11 +1,14 @@
-<h1> CALCULADORA DE IMC EM DART </h1>
+<h1 align="center">
+  <strong>CALCULADORA DE IMC EM DART</strong>
+</h1>
+<br>
 
-# Calculadora de IMC em Dart com:
+## Calculadora de IMC em Dart com:
 
-# -Orientação a objetos;
+-Orientação a objetos;
 
-# -Leitura de dados no terminal;
+-Leitura de dados no terminal;
 
-# -Lançamento de exceções;
+-Lançamento de exceções;
 
-# -Testes;
+-Testes;
