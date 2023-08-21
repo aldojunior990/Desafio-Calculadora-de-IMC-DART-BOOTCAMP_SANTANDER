@@ -1,2 +1,11 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+<h1> CALCULADORA DE IMC EM DART </h1>
+
+# Calculadora de IMC em Dart com:
+
+# -Orientação a objetos;
+
+# -Leitura de dados no terminal;
+
+# -Lançamento de exceções;
+
+# -Testes;
